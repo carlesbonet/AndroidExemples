@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pepe</string>
+    <string name="textBotoSaludar">Saludar</string>
+    <string name="textBotoEsborrar">Esborrar</string>
+
+
+</resources>
